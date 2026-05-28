@@ -1,3 +1,4 @@
+//WAP to print multiplication ntable of a given number.
 #include<stdio.h>
 int main(){
     int n;
