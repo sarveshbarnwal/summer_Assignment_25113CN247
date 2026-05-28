@@ -1,3 +1,4 @@
+//WAP to print multiplication table of a given number.
 #include<stdio.h>
 int main(){
     int N,sum=0;
