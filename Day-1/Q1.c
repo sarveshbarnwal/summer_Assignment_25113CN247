@@ -1,4 +1,4 @@
-//WAP to print multiplication table of a given number.
+//WAP to Calculate sum of first N natural numbers.
 #include<stdio.h>
 int main(){
     int N,sum=0;
