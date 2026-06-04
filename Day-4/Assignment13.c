@@ -5,8 +5,7 @@ int fib(int a){
     if (a==1) return 1;
     else 
     return fib(a-1) +fib(a-2);    
-    /*this function can also be used to find fibo but it makes unnecessary calls and 
-    avoiding that another method is below described.*/
+    
 }
 int main(){
     int n;
@@ -19,7 +18,8 @@ int main(){
     }
     return 0;
 }
-
+/*upper code can also be used to find fibo but it makes unnecessary calls and 
+    avoiding that another method is below described.*/
 //Alternate code.
 #include<stdio.h>
 int main(){
