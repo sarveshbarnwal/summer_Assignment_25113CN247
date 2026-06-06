@@ -6,7 +6,7 @@ int main(){
     printf("Enter the number:");
     scanf("%d",&n);
 
-    while(n !=0){
+    while(n != 0){
         m= n % 2;
         if(m==1)   sum = sum +1;
         n = n/2;
