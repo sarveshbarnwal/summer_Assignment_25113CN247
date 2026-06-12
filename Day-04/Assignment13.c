@@ -5,14 +5,14 @@ int fib(int a){
     if (a==1) return 1;
     else 
     return fib(a-1) +fib(a-2);    
-    
+    -12 
 }
 int main(){
     int n;
     printf("Write number of terms:"); //generating upto a term. eg-> n=1,2,3,4...
     scanf("%d",&n);
 
-    for(int i=0 ; i<=n ; i++){
+    for(int i=0 ; i<n ; i++){
         int m= fib(i);
         printf("%d ",m);
     }
