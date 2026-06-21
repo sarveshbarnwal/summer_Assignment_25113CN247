@@ -8,7 +8,7 @@ scanf("%[^\n]s",str);
     for (int i=0; str[i]!='\0'; i++){
         char ch=str[i];    // convert to lowercase for uniform checking
         if (ch>='A' && ch<='Z'){
-            ch = ch+32;
+            ch=ch+32;
         }
         if (ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u'){
             vowels++;
