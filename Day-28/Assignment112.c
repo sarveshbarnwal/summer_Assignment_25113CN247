@@ -1,5 +1,4 @@
 //WAP to create contact management system.
-//WAP to create contact management system.
 #include <stdio.h>
 #include <string.h>
 #define MAX 10
