@@ -1,5 +1,4 @@
 //WAP to create bank account system.
-//WAP to create bank account system.
 #include <stdio.h>
 #include <string.h>
 #define MAX 10

@@ -1,5 +1,4 @@
 //WAP to create ticket booking system.
-//WAP to create ticket booking system.
 #include <stdio.h>
 #include <string.h>
 #define MAX 10
